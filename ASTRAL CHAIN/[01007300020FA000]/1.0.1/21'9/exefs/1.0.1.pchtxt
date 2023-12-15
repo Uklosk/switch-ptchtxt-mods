@@ -1,0 +1,19 @@
+@nsobid-4B159F0F7A360669738390EE8657B4F0
+
+# Astral Chain [01007300020FA000] v1.0.1 - 21:9 v2
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio (movies are streched)
+
+
+
+@enabled
+009A30BC 0170201E
+009045F4 1F2003D5
+@stop
+
+@theboy181 - https://linktr.ee/theboy181 
+
+Commissioned by: Kilgharrah#2092

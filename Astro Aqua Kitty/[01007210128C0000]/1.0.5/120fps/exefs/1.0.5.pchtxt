@@ -1,0 +1,17 @@
+@nsobid-B5F6DE166AD55D7EE9165022B5FD85D50B55941F
+
+# Astro Aqua Kitty [01007210128C0000] v1.0.5 - 120fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Set Game Speed
+
+
+@enabled
+00105140 28119152
+00105144 2881A772
+@stop
+
+@theboy181
+https://linktr.ee/theboy181

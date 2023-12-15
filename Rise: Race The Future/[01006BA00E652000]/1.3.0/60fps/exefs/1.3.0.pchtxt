@@ -1,0 +1,16 @@
+@nsobid-6E78E8CE27740144B26E299D79CBE95D
+
+# Rise: Race The Future [01006BA00E652000] v1.3.0 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+
+@enabled
+009949B8 1F2003D5
+@stop
+
+@theboy181
+https://linktr.ee/theboy181

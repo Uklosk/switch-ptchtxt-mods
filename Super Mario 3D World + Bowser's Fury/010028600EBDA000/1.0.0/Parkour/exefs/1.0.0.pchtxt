@@ -1,0 +1,22 @@
+@nsobid-9F7EFC2FB9653E5CDE03030478F23EDA7D18EF44
+
+# Super Mario 3D World + Bowser's Fury [010028600EBDA000] v1.0.0 - Parkour
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Change game physics, makes climping walls easy
+
+@enabled
+00383748 49339352
+0038374C 29E3A772
+003849DC C83CA852
+00384908 1AF0A752
+003842C4 68668652
+003842C8 68DEA772
+@stop
+
+@theboy_181
+
+https://twitter.com/theboy181
+https://www.patreon.com/user?u=3127108

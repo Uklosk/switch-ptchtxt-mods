@@ -1,0 +1,17 @@
+@nsobid-46205B7BD869E2E49523CF0B10F0948973C700D4
+
+# MONSTER HUNTER RISE [0100B04011742000] v3.0.0 - 21:9
+@flag print_values
+@flag offset_shift 0x100
+
+
+// 21:9 Asepct Ratio
+
+@enabled
+055A7E34 0070201E
+@stop
+
+Credit: @theboy181
+https://linktr.ee/theboy181
+
+Thanks to @nihil for the commission on this MOD "OVER 9000!!!!"

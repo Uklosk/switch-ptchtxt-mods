@@ -1,0 +1,19 @@
+@nsobid-FB08F1D20FD1204FE7070672777F869B
+
+# MONSTER HUNTER GENERATIONS ULTIMATE [0100770008DD8000] v1.4.0 - 60fps.v2
+
+@flag print_values
+@flag offset_shift 0x100
+
+// exefs 60fps hack
+
+@enabled
+003d9150 701244E3
+0067F220 00F020E3
+0014e0e0 00F020E3
+@stop
+
+@theboy181
+
+https://twitter.com/theboy181
+https://www.patreon.com/user?u=3127108

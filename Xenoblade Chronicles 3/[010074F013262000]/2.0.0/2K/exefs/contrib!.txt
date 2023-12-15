@@ -1,0 +1,85 @@
+
+This has all been really overwhelming. I can't believe how many people out there appreciate my work.
+This list it through the roof! Thank you! You guys were extremely helpful at finding the issues for a proper public release! 
+
+
+
+Contributors:
+
+OldManKain#3749 50.00+
+Alfex#0278
+AliciaBurrito#6969
+BFI#9530
+bigheartmix#0814
+Derva#2818
+F.#3455
+GarnetSunset#3854
+Ginnoir#6298
+Gnostalgia#5715
+hostdrum#6716
+jawa_iii#3508
+Kyokoen#6151
+massive_spliff#7221
+Maxim#0003
+nebiont#4364
+Nitrostat#7248
+Noxe#0001
+Octolimar#6969
+oldboydope#2863
+Phi#0999
+Renverse#6666
+roundofseven#2563
+Sakuba news switch ému#5167
+SoulReaper#1967
+sylamon
+hengyu#9792
+Talim#9999
+theboy181#0181
+TooSpooky#8860
+Victoria™#4479
+Wyclef#0595
+Zizheng#4355
+Zone Ghost#3809
+! Malahk !#0001
+01dxd#2448
+Ange#9790
+bib#4211
+BSoD Gaming#7755
+Cathy#6751
+Deleted#1693
+Dement#3355
+DEMONDICE#3389
+Dragnar58#3104
+HiHiKazumaDesu#1210
+hirumi#5930
+Komodostar#1689
+lippe#0823
+mdz79#9443
+Melanderz#5486
+Metal#9710
+Night#3092
+Niwu#4082
+norfnorf#6427
+Number 15#3223
+Ophiannett Rainteau#3866
+raf#7320
+RahFah#4933
+Rigoru#9452
+SAKEZon#7107 * 100.00+
+SardineCat#4075
+SheepyOo#2415
+sibalicious#0742
+SoftFingerSam#5168
+Tankshell#6033
+Xelminar#7575
+Zan#2724
+♫ Nevermind ♪#3887
+𓃠Yaro𓃠 本音#9974
+HunterL#4182
+Asher#7009
+brunolv#1631
+Chaosfrag
+
+2589
+
+2K, 21:9, Disable Scaling, Remove Motion Blur, and Remove Outlines were stested, and passed the QA testing. If you find any issues please DM me on Discord

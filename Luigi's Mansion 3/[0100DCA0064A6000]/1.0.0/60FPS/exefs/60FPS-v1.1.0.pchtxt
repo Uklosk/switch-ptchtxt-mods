@@ -1,0 +1,15 @@
+@nsobid-075AD583A1603F849E482771F803DBB2965EF95F
+        
+# LM3 - 60FPS v1.1.0
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS Hack
+
+@enabled
+00B0A8BC 21008052
+01348698 55558541
+@stop
+
+@theboy181

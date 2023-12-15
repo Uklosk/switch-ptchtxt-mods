@@ -1,0 +1,16 @@
+@nsobid-1BF7BE722958394B81CAD66556F4D8DD
+
+# Gods Will Fall [0100CFA0111C8000] v1.0.1 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Set Interval 1
+
+@enabled
+00654778 21008052
+@stop
+
+@theboy_181
+https://twitter.com/theboy181
+https://www.patreon.com/user?u=3127108

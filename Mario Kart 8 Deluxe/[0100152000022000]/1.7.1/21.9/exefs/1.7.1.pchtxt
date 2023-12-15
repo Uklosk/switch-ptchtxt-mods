@@ -1,0 +1,13 @@
+@nsobid-FE1B230800D4933C617C691273CA5978
+
+# Mario Kart 8 Deluxe [0100152000022000] 1.7.1 - 21:9
+
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio
+
+@enabled
+00312430 030AB0EE
+@stop
+
+@theboy181 - https://linktr.ee/theboy181

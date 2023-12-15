@@ -1,0 +1,15 @@
+@nsobid-8E18600222CE90C22FCBA194453983B3E9AE19ED
+
+# Xenoblade Chronicles 3 [010074F013262000] v2.0.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio (GUI doesn't scale to the aspect, and slight offset on enemy selector)
+
+@enabled
+00EB64CC 1770201E
+@stop
+
+@theboy181
+https://linktr.ee/theboy181

@@ -1,0 +1,30 @@
+@nsobid-D5AD6AC71EF53E3E52417C1B81DBC9B4142AA3B3
+# The Legend of Zelda: Tears of the Kingdom [0100F2C0115B6000] v1.1.0 - Cutscene Fix 1.4
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Fixes the video playback issues and sets 60fps. 
+
+@enabled
+0090E9C4 C07B0E94
+00CAD8C4 77D30190
+00CAD8C8 F7B642F9
+00CAD8CC F72E40F9
+00CAD8D0 F72640F9
+00CAD8D4 F7A20891
+00CAD8D8 E1024039
+00CAD8DC 3F000071
+00CAD8E0 61000054
+00CAD8E4 21040011
+00CAD8E8 C0035FD6
+00CAD8EC A11E0012
+00CAD8F0 C0035FD6
+@stop
+
+@theboy181
+https://linktr.ee/theboy181
+
+Special thanks to Chuck
+
+@octolimar

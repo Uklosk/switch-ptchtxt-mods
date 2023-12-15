@@ -1,0 +1,15 @@
+@nsobid-82AF4E16BBC0BEC8DF70CD03E99BFC8C37FE8B
+
+# Kirby's Dream Buffet [0100A8E016236000] v1.0.0 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+
+@enabled
+007B6964 C0035FD6
+@stop
+
+@theboy181 - https://linktr.ee/theboy181

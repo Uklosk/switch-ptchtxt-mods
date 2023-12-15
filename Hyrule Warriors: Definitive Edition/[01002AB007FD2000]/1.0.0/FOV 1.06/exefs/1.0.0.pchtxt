@@ -1,0 +1,19 @@
+@nsobid-6DA232F1929A838E8DAD7DF9BB391944
+
+# Hyrule Warriors: Definitive Edition [01002AB007FD2000] v1.0.0 - FOV 106.0
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Sets Camera back, default values was .69 sets it to 1.06
+
+
+@enabled
+003E66C0 C81000D0
+003E66CC 010943BD
+00600308 8716D93C
+@stop
+
+@theboy181
+
+Special Thanks to @mofumofu for commisioning this hack, more to come!

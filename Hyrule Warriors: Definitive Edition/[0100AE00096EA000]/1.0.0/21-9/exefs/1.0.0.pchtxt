@@ -1,0 +1,15 @@
+@nsobid-0C869F41B8B9175E29B2329F594E0A4F
+
+# Hyrule Warriors: Definitive Edition [0100AE00096EA000] v1.0.0 - 21:9
+@flag print_values
+@flag offset_shift 0x100
+
+// Aspect 21:9
+
+@enabled
+003DF5A8 B902A852
+003DF5B0 B9AA8A72
+@stop
+
+@theboy181
+https://linktr.ee/theboy181

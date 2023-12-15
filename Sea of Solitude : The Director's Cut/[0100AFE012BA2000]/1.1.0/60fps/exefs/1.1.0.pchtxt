@@ -1,0 +1,16 @@
+@nsobid-1D327B699C913A4792A75E076F259AF7
+
+# Sea of Solitude : The Director's Cut [0100AFE012BA2000] v1.1.0 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Set Interval 1
+-------
+
+@enabled
+005A1F9C 21008052
+@stop
+
+@theboy181
+https://linktr.ee/theboy181

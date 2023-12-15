@@ -1,0 +1,14 @@
+@nsobid-D5AD6AC71EF53E3E52417C1B81DBC9B4142AA3B3
+# The Legend of Zelda: Tears of the Kingdom [0100F2C0115B6000] v1.1.0 - Disable Time Advancement 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Time of day will only change when you rest, but will not advance.
+
+@enabled
+00AF4B4C 3C010014
+@stop
+
+@theboy181
+https://linktr.ee/theboy181

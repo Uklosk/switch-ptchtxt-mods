@@ -1,0 +1,17 @@
+@nsobid-0E7A480A50A0D3DDD935510E153D4D0C
+
+# Donkey Kong Country: Tropical Freeze v1.0.0 - 21:9 v2
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio
+
+@enabled
+015600A8 398EE33F
+015604AC 55551540
+002DD370 099400F0
+002DD374 20A940BD
+@stop
+
+@theboy181 - https://linktr.ee/theboy181

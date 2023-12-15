@@ -1,0 +1,18 @@
+@nsobid-0E36C71C08334076DDBA0D5E7ABB4233
+
+# Animal Crossing: New Horizons [01006F8002326000] v1.8.0 -21:9 aspect ratio
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 
+
+@enabled
+0231F6C8 0070201E
+00BBB460 E003271E
+@stop
+
+@theboy181
+https://linktr.ee/theboy181
+
+Commissioned by @Bennypht

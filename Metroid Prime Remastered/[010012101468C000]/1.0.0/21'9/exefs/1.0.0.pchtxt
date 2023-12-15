@@ -1,0 +1,23 @@
+@nsobid-67C9CA1428222752F951021464A7B3597EB98FEC
+
+# Metroid Prime Remastered [010012101468C000] v1.0.0 - 21:9 v4
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio - Videos, and some menus are stretched 
+
+@enabled
+00AFEB30 A902A872
+00AFEB2C A9AA8A52
+00B30420 A8AA8A52
+00B30424 A802A872
+00E77ADC A0028052
+00E77AE4 20018052
+00C8C9EC 00902F1E
+@stop
+
+@theboy181
+https://linktr.ee/theboy181
+
+Donator: @SardineCat @electric. @A7 @AliciaBurrito @CartoonistDude @Deadlyhaashbrown @Deleted @Derva @LambLambda @Nautilus @Revanlkari @spencerrox @SILENT

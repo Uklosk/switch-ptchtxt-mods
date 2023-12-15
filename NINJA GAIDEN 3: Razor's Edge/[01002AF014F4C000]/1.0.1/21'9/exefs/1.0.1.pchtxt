@@ -1,0 +1,16 @@
+@nsobid-F20FDC280AF01CBE4397FFEC8C491BEC6C8876E6
+
+# NINJA GAIDEN 3: Razor's Edge [01002AF014F4C000] v1.0.1 - 21:9 Aspect Ratio
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio
+
+@enabled
+0128FD18 55551540
+012902E4 55551540
+@stop
+
+@theoboy181
+https://linktr.ee/theboy181

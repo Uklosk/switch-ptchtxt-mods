@@ -1,0 +1,17 @@
+@nsobid-1278B520B42269D713240EE551BA8AEB
+        
+// nsobid found in main @ offset 0x40
+
+# Yoku's Island Express [010002D00632E000] v1.0.0 - 120fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120fps
+
+@enabled
+003B5160 8988083C
+@stop
+
+@theboy181
+https://linktr.ee/theboy181

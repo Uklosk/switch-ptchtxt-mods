@@ -1,0 +1,15 @@
+@nsobid-DC27156B7AB58D316ADF871ACD610929EDEF08FA
+
+# NINJA GAIDEN Σ2 [0100696014F4A000] v1.0.1 - 21:9 Aspect Ratio
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio
+
+@enabled
+00E23D7C 55551540
+@stop
+
+@theboy181
+https://linktr.ee/theboy181
